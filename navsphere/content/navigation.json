@@ -124,6 +124,14 @@
           "description": "低调求发展",
           "icon": "/assets/img_1753858444482.png",
           "enabled": true
+        },
+        {
+          "id": "site_1753858608918_2hh5iy3vt",
+          "title": "棉花糖论坛",
+          "href": "https://vip.bdziyi.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
         }
       ],
       "subCategories": []
