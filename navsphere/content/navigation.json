@@ -38,6 +38,14 @@
           "description": "在线漏洞搜索引擎",
           "icon": "/assets/img_1753855861750.png",
           "enabled": true
+        },
+        {
+          "id": "site_1753856011350_p085gjd48",
+          "title": "Intelligence X",
+          "href": "https://intelx.io/",
+          "description": "强大的情报分析工具，该工具网站涵盖有千亿数据，可以通过域名、用户名、网址、电子邮箱、IP、比特币地址、用户地址、电话等各种信息进行信息检索和扩展分析。",
+          "icon": "/assets/img_1753856004288.png",
+          "enabled": true
         }
       ],
       "subCategories": []
