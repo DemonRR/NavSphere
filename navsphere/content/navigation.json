@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1753837561979_6qdg844sm",
-          "title": "Fofa",
-          "href": "https://fofa.info/",
-          "description": "网络空间测绘，网络空间安全搜索引擎，网络空间搜索引擎，安全态势感知 - FOFA网络空间测绘系统",
-          "icon": "/assets/img_1753838114163.png",
-          "enabled": true
-        },
-        {
           "id": "site_1753855664312_lj91qt3lz",
           "title": "鹰图",
           "href": "https://hunter.qianxin.com/",
@@ -55,7 +47,16 @@
           "icon": "Search",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1753837561979_6qdg844sm",
+              "title": "Fofa",
+              "href": "https://fofa.info/",
+              "description": "网络空间测绘，网络空间安全搜索引擎，网络空间搜索引擎，安全态势感知 - FOFA网络空间测绘系统",
+              "icon": "/assets/img_1753838114163.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "039a1ec4-f53e-4d22-9875-a27621923a62",
