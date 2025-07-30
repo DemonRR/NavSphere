@@ -911,6 +911,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1753858190750",
+      "title": "安全论坛",
+      "icon": "BookOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
