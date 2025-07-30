@@ -48,7 +48,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "a5d226e8-6a91-4d8a-b74a-0db58d8a8add",
+          "title": "资产绘测",
+          "icon": "Search",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1",
