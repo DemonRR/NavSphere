@@ -809,6 +809,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1753837483050",
+      "title": "信息收集",
+      "icon": "Search",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
