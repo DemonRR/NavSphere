@@ -116,6 +116,14 @@
           "description": "",
           "icon": "/assets/img_1753858287244.png",
           "enabled": true
+        },
+        {
+          "id": "site_1753858454264_afg18fqzr",
+          "title": "T00ls",
+          "href": "https://cn.t00ls.com/",
+          "description": "低调求发展",
+          "icon": "/assets/img_1753858444482.png",
+          "enabled": true
         }
       ],
       "subCategories": []
