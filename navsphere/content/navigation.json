@@ -64,7 +64,16 @@
           "icon": "Search",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1753856972933_vedu4qdcb",
+              "title": "EZ",
+              "href": "https://docs.ezreal.cool/",
+              "description": "EZ是一款集信息收集、端口扫描、服务爆破、指纹识别、被动扫描为一体的跨平台漏洞扫描器",
+              "icon": "/assets/img_1753856970175.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "bb615a3a-4d89-4cd7-953b-6299f654c12b",
