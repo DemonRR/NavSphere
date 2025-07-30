@@ -108,7 +108,16 @@
       "icon": "BookOpen",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1753858298458_yja1ilhq1",
+          "title": "洞见网安",
+          "href": "https://wechat.doonsec.com/",
+          "description": "",
+          "icon": "/assets/img_1753858287244.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
