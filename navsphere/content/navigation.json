@@ -56,6 +56,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "039a1ec4-f53e-4d22-9875-a27621923a62",
+          "title": "工具下载",
+          "icon": "Search",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
