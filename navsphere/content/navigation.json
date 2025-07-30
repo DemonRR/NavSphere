@@ -22,6 +22,14 @@
           "description": "奇安信网络空间测绘系统",
           "icon": "/assets/img_1753855617996.png",
           "enabled": true
+        },
+        {
+          "id": "site_1753855771241_a7lerngd7",
+          "title": "钟馗之眼",
+          "href": "https://www.zoomeye.org/",
+          "description": "Zoomeye是一个强大的网络空间搜索引擎，专注于目标和漏洞映射。它通过全端口扫描和持续探测，构建互联网安全景观图，支持资产发现、风险分析、应急响应和网络安全保证。促进研究人员和企业迅速进行网络资产匹配，进行资产漏洞影响范围分析、应用分布统计、应用流行度排名统计等，提升网络安全能力。",
+          "icon": "/assets/img_1753855767828.png",
+          "enabled": true
         }
       ],
       "subCategories": []
