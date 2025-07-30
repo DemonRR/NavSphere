@@ -72,6 +72,14 @@
               "description": "EZ是一款集信息收集、端口扫描、服务爆破、指纹识别、被动扫描为一体的跨平台漏洞扫描器",
               "icon": "/assets/img_1753856970175.png",
               "enabled": true
+            },
+            {
+              "id": "site_1753857050688_dgutos6b7",
+              "title": "Scope Sentry",
+              "href": "https://www.scope-sentry.top/",
+              "description": "Scope Sentry是一款具有资产测绘、子域名枚举、信息泄露检测、漏洞扫描、目录扫描、子域名接管、爬虫、页面监控功能的工具",
+              "icon": "/assets/img_1753857023306.png",
+              "enabled": true
             }
           ]
         },
